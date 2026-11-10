@@ -10,12 +10,12 @@
 
 | File · الملف | Description · الوصف |
 |---|---|
-| [**KAIG-Butterfly-Twin-Portable-1.0.0.exe**](https://github.com/asfantrading-create/kaig-butterfly-digital-twin/releases/latest/download/KAIG-Butterfly-Twin-Portable-1.0.0.exe) | Portable — runs directly, no installation · نسخة محمولة تعمل مباشرة بدون تثبيت |
-| [**KAIG-Butterfly-Twin-Setup-1.0.0.exe**](https://github.com/asfantrading-create/kaig-butterfly-digital-twin/releases/latest/download/KAIG-Butterfly-Twin-Setup-1.0.0.exe) | Full installer (Arabic / English) · مثبّت كامل |
+| [**KAIG-Butterfly-Twin-Portable-1.1.0.exe**](https://github.com/asfantrading-create/kaig-butterfly-digital-twin/releases/latest/download/KAIG-Butterfly-Twin-Portable.exe) | Portable — runs directly, no installation · نسخة محمولة تعمل مباشرة بدون تثبيت |
+| [**KAIG-Butterfly-Twin-Setup-1.1.0.exe**](https://github.com/asfantrading-create/kaig-butterfly-digital-twin/releases/latest/download/KAIG-Butterfly-Twin-Setup-1.1.0.exe) | Full installer (Arabic / English) · مثبّت كامل |
 | [**KAIG-Butterfly-Twin-User-Manual.pdf**](https://github.com/asfantrading-create/kaig-butterfly-digital-twin/releases/latest/download/KAIG-Butterfly-Twin-User-Manual.pdf) | User manual (Arabic + English) · دليل المستخدم باللغتين |
 
 **Alternate download server · رابط تحميل بديل** (GitHub LFS):
-- [Portable EXE · النسخة المحمولة](https://media.githubusercontent.com/media/asfantrading-create/kaig-butterfly-digital-twin/main/download/KAIG-Butterfly-Twin-Portable-1.0.0.exe)
+- [Portable EXE · النسخة المحمولة](https://media.githubusercontent.com/media/asfantrading-create/kaig-butterfly-digital-twin/main/download/KAIG-Butterfly-Twin-Portable.exe)
 - [User Manual PDF · دليل المستخدم](https://media.githubusercontent.com/media/asfantrading-create/kaig-butterfly-digital-twin/main/download/KAIG-Butterfly-Twin-User-Manual.pdf)
 - Download page · صفحة التحميل: https://asfantrading-create.github.io/kaig-butterfly-digital-twin/
 
